@@ -1,0 +1,5 @@
+Ajuda com .NET:
+https://dotnet.microsoft.com/en-us/learn
+
+Canal oficial .NET:
+https://www.youtube.com/c/dotNET
